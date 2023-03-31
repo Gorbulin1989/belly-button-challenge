@@ -1,4 +1,3 @@
-# belly-button-challenge
 # Belly_Button_Biodiversity
 
 ## Target
@@ -47,18 +46,12 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 ### Step 4 Display the individual's demographic information
 Display each key-value pair from the metadata JSON object somewhere on the page.<br/>
-   ![Bubble Chart](OutPut/DemographicInfo.png)
+   ![Bubble Chart](Output/Description.PNG)
 
 ## Files
-- [Output](https://github.com/Ash-Tao/Belly_Button_Biodiversity/tree/main/OutPut)<br/>
-  - BubbleChart.png<br/>
-  - DemographicInfo.png<br/>
-  - Full Screen.png<br/>
-  - GaugeChart .png<br/>
-  - Info&BarChart.png<br/>
 
-- [app.js](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/app.js)<br/>
+- [app.js](https://github.com/Gorbulin1989/belly-button-challenge/blob/main/static/js/app.js)<br/>
 
-- [index.html](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/index.html)<br/>
+- [index.html](https://github.com/Gorbulin1989/belly-button-challenge/blob/main/index.html)<br/>
 
-- [Data Sample](https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/samples.json)<br/>
+- [Data Sample](https://github.com/Gorbulin1989/belly-button-challenge/blob/main/samples.json)<br/>
