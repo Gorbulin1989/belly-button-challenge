@@ -43,7 +43,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
   * Use `otu_labels` for the text values.<br/>
 
-  ![Bubble Chart](OutPut/BubbleChart.png)
+  ![Bubble Chart](Output/Bubble.png)
 
 ### Step 4 Display the individual's demographic information
 Display each key-value pair from the metadata JSON object somewhere on the page.<br/>
