@@ -8,7 +8,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 [**Click Here**](https://gorbulin1989.github.io/belly-button-challenge/) to find out how the web page looks like. <br/>
 
- <img src="https://github.com/Ash-Tao/Belly_Button_Biodiversity/blob/main/OutPut/Full%20Screen.png"><br/>
+ <img src="https://github.com/Gorbulin1989/belly-button-challenge/blob/main/Output/mainpage.PNG"><br/>
 
 ## Step by Step Approch
 
